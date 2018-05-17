@@ -1,4 +1,5 @@
 Couldn't find a reasonable py3 gmail package, and I hate using Google's APIs when I don't have to, so here we are.
+This only reads emails currently. I have no need to send emails but if there's a decent PR, I'll take it.
 
 **Criteria Parameters**
 
